@@ -1,0 +1,2 @@
+[console_scripts]
+siwp2005-Victorio-sort = src.sort:main
