@@ -1,6 +1,7 @@
 CHANGES.txt
 LICENSE
 MANIFEST.in
+README.md
 pyproject.toml
 setup.cfg
 setup.py
