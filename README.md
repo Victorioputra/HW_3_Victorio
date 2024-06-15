@@ -1,8 +1,8 @@
 # Victorio-Sort
 
-Victorio-Sort adalah sebuah paket Python yang menyediakan implementasi dari beberapa algoritma pengurutan, termasuk Bubble Sort, Quick Sort, dan Insertion Sort.
+This is a Python package implementations of sorting algorithms including Bubble Sort, Quick Sort, and Insertion Sort.
 
-## Daftar Isi
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
