@@ -10,9 +10,9 @@ This is a Python package implementations of sorting algorithms including Bubble 
 ## Installation
 To install the Victorio-Sort package, using pip:
 
-    ```bash
+    
     pip install -i https://test.pypi.org/simple/ siwp2005-Victorio-sort
-    ```
+    
 
 ## Usage
 Here's how to use  the sorting algorithms:
